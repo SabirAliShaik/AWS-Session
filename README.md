@@ -1,3 +1,6 @@
+### Pre-requisite
+You have to create a stripe account and generate API keys to use in the project.
+
 # Deploying a Node Js Application on AWS EC2
 
 ### Testing the project locally
